@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 1175736560cd4a542bd17fc628bf4e72
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mesaBambooAmarra01
+    100004: mesaBambooAmarra02
+    100006: mesaBambooAmarra03
+    100008: mesaBambooAmarra04
+    100010: mesaBambooTrava002
+    100012: mesaBambooTrava003
+    100014: mesaBambooTrava004
+    100016: mesaBambooTrava01
+    100018: mesaTabelaBamboo007
+    100020: mesaTabelaBamboo008
+    100022: mesaTabelaBamboo009
+    100024: mesaTabelaBamboo01
+    100026: mesaTabelaBamboo010
+    100028: mesaTabelaBamboo02
+    100030: mesaTabelaBamboo03
+    100032: mesaTabelaBamboo04
+    100034: mesaTabelaBamboo05
+    100036: mesaTabelaBamboo06
+    400000: //RootNode
+    400002: mesaBambooAmarra01
+    400004: mesaBambooAmarra02
+    400006: mesaBambooAmarra03
+    400008: mesaBambooAmarra04
+    400010: mesaBambooTrava002
+    400012: mesaBambooTrava003
+    400014: mesaBambooTrava004
+    400016: mesaBambooTrava01
+    400018: mesaTabelaBamboo007
+    400020: mesaTabelaBamboo008
+    400022: mesaTabelaBamboo009
+    400024: mesaTabelaBamboo01
+    400026: mesaTabelaBamboo010
+    400028: mesaTabelaBamboo02
+    400030: mesaTabelaBamboo03
+    400032: mesaTabelaBamboo04
+    400034: mesaTabelaBamboo05
+    400036: mesaTabelaBamboo06
+    2300000: mesaBambooAmarra01
+    2300002: mesaBambooAmarra02
+    2300004: mesaBambooAmarra03
+    2300006: mesaBambooAmarra04
+    2300008: mesaBambooTrava002
+    2300010: mesaBambooTrava003
+    2300012: mesaBambooTrava004
+    2300014: mesaBambooTrava01
+    2300016: mesaTabelaBamboo007
+    2300018: mesaTabelaBamboo008
+    2300020: mesaTabelaBamboo009
+    2300022: mesaTabelaBamboo01
+    2300024: mesaTabelaBamboo010
+    2300026: mesaTabelaBamboo02
+    2300028: mesaTabelaBamboo03
+    2300030: mesaTabelaBamboo04
+    2300032: mesaTabelaBamboo05
+    2300034: mesaTabelaBamboo06
+    3300000: mesaBambooAmarra01
+    3300002: mesaBambooAmarra02
+    3300004: mesaBambooAmarra03
+    3300006: mesaBambooAmarra04
+    3300008: mesaBambooTrava002
+    3300010: mesaBambooTrava003
+    3300012: mesaBambooTrava004
+    3300014: mesaBambooTrava01
+    3300016: mesaTabelaBamboo007
+    3300018: mesaTabelaBamboo008
+    3300020: mesaTabelaBamboo009
+    3300022: mesaTabelaBamboo01
+    3300024: mesaTabelaBamboo010
+    3300026: mesaTabelaBamboo02
+    3300028: mesaTabelaBamboo03
+    3300030: mesaTabelaBamboo04
+    3300032: mesaTabelaBamboo05
+    3300034: mesaTabelaBamboo06
+    4300000: mesaTabelaBamboo02
+    4300002: mesaTabelaBamboo03
+    4300004: mesaTabelaBamboo05
+    4300006: mesaTabelaBamboo04
+    4300008: mesaBambooTrava01
+    4300010: mesaBambooAmarra03
+    4300012: mesaTabelaBamboo008
+    4300014: mesaBambooAmarra04
+    4300016: mesaBambooAmarra02
+    4300018: mesaBambooAmarra01
+    4300020: mesaBambooTrava004
+    4300022: mesaBambooTrava002
+    4300024: mesaBambooTrava003
+    4300026: mesaTabelaBamboo01
+    4300028: mesaTabelaBamboo06
+    4300030: mesaTabelaBamboo007
+    4300032: mesaTabelaBamboo009
+    4300034: mesaTabelaBamboo010
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
